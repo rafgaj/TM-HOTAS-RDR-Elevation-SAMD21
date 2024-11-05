@@ -3,7 +3,7 @@
 
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_GAMEPAD,
   2, 0,                  // Button Count, Hat Switch Count
-  false, false, false,     // No X,Y nor Z Axis
+  false, false, false,   // No X,Y nor Z Axis
   false, false, false,   // No Rx, Ry, or Rz
   false, false,          // No rudder or throttle
   false, false, false);  // No accelerator, brake, or steering
